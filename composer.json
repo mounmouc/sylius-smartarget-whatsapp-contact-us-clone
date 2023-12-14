@@ -1,5 +1,5 @@
 {
-    "name": "smartarget/sylius-smartarget-whatsapp-contact-us-plugin",
+    "name": "smartarget/sylius-smartarget-whatsapp-contact-us-clone-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "Allow customers to contact you using Whatsapp",
