@@ -1,0 +1,17 @@
+smartarget_smartarget_whatsapp_contact_us:
+    ui:
+        messages: Whatsapp - Contact Us
+        messages_subheader: Manage Smartarget Whatsapp apps on your shop. Get more apps on https://smartarget.online
+        new_message: New Smartarget Whatsapp app
+        edit_message: Edit Smartarget Whatsapp app
+        yes_label: Yes
+        no_label: No
+        form:
+            enabled: Enabled
+            phoneNumber: Phone Number
+            smartargetUserId: Smartarget User Id
+            channels: Channels
+        actions:
+            create: Create Whatsapp app
+            update: Update
+            delete: Delete

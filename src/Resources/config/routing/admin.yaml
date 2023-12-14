@@ -1,0 +1,15 @@
+smartarget_sylius_smartarget_whatsapp_contact_us_admin:
+  resource: |
+    alias: smartarget_smartarget_whatsapp_contact_us.message
+    path: smartarget_whatsapp
+    section: admin
+    templates: SyliusAdminBundle:Crud
+    except: ['show']
+    redirect: update
+    grid: smartarget_smartarget_whatsapp_contact_us
+    vars:
+        all:
+            subheader: smartarget_smartarget_whatsapp_contact_us.ui.messages_subheader
+        index:
+            icon: 'podcast'
+  type: sylius.resource

@@ -1,0 +1,4 @@
+suites:
+    main:
+        namespace: Smartarget\SyliusSmartargetWhatsappContactUsPlugin
+        psr4_prefix: Smartarget\SyliusSmartargetWhatsappContactUsPlugin

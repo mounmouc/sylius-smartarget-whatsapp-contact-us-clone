@@ -1,0 +1,7 @@
+sylius_resource:
+  resources:
+    smartarget_smartarget_whatsapp_contact_us.message:
+      classes:
+        model: Smartarget\SyliusSmartargetWhatsappContactUsPlugin\Entity\Message
+        form: Smartarget\SyliusSmartargetWhatsappContactUsPlugin\Form\Type\MessageType
+        repository: Smartarget\SyliusSmartargetWhatsappContactUsPlugin\Repository\MessageRepository

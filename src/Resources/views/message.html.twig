@@ -1,0 +1,3 @@
+{% for message in block.messages -%}
+    {%- include '@SmartargetSyliusSmartargetWhatsappContactUsPlugin/_default_template.html.twig' with {'message': message} -%}
+{%- endfor %}
